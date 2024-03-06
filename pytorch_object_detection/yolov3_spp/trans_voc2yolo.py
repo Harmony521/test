@@ -12,6 +12,7 @@ import shutil
 
 # voc数据集根目录以及版本
 voc_root = "/kaggle/input/voc2013/VOCdevkit"
+# voc_root = "D:\\detect\\deep-learning-for-image-processing\\pytorch_object_detection\\faster_rcnn\\VOCdevkit"
 voc_version = "VOC2012"
 
 # 转换的训练集以及验证集对应txt文件
